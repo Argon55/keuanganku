@@ -1,9 +1,9 @@
-import Coba from "./Coba/Coba";
+import Sidebar from "./component/Sidebar";
 
 function App() {
   return (
     <>
-      <Coba />
+      <Sidebar />
     </>
   );
 }
